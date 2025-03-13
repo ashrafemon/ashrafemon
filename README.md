@@ -130,10 +130,10 @@ B.Sc in Computer Science and Engineering - Bangladesh Institute of Science & Tec
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashrafemon/ashrafemon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ashrafemon/ashrafemon/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/ashrafemon/ashrafemon/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/ashrafemon/ashrafemon/pacman.svg" alt="Pacman animation" />
 
 ###
